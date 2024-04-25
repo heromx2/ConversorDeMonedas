@@ -7,7 +7,6 @@ import java.net.URL;
 import java.util.Scanner;
 
 public class CurrencyConverter {
-    //private static final String API_URL = "https://v6.exchangerate-api.com/v6/e2eab898cb358f6c196cdd31/latest/USD";
 
     public static void main(String[] args) {
         try {
